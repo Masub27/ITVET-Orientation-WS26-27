@@ -355,7 +355,7 @@ Following these steps will help ensure a smooth start to your studies in the ITV
  ## Winter Semester 26/27
  ## Course Timetable Overview
 
- >Enrolment key for all courses  ~~__ITVETWS2627__~~
+ >Enrolment key for all courses  __ITVETWS2627__
 
 ---
 
