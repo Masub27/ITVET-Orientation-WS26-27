@@ -305,6 +305,43 @@ Under the **Students** tab you can:
 
 ---
 
+# German Language Courses: Requirements and Enrolment
+
+> The OVGU Language Centre offers **German as a Foreign Language (DaF)** courses. Students must complete the online registration within the official registration period to participate.
+
+## Course requirements
+
+- **Absolute beginners:** You may register for **A1.1 without a placement test**.
+- **From level A2:** A placement test is compulsory when entering the first part of a course if you have not previously attended a German course at the OVGU Language Centre or have not successfully completed the second part of the preceding course.
+- The placement test is **not intended for students currently attending a German course** at the Language Centre.
+- A placement-test result is valid for **one year**. The test may be repeated after **three months** at the earliest.
+- For **incoming international students**, OVGU states that a maximum of one language level (A1, A2, B1, B2 or C1) with a final examination may be taken free of charge. Fee conditions may differ for regular degree students.
+- One language level consists of **Part 1 and Part 2**, normally completed over two semesters with four teaching hours per week in each part.
+
+## Enrolment for Winter Semester 2026/2027
+
+| Step | What to do |
+|---|---|
+| 1 | Log in to the [Language Centre Moodle](https://sprachenzentrum.ovgu.de/?lang=en) using your **OVGU account**. |
+| 2 | If a placement test is required, enrol in the free **DaF \| Placement Test** Moodle course and book an appointment. |
+| 3 | Register online for the appropriate German course between **5 October 2026 at 09:00** and **23 October 2026 at 18:00**. |
+| 4 | German language courses begin on **12 October 2026**. Participation is only possible after timely online registration. |
+
+## Placement-test appointment
+
+- Appointments can be booked from **23 September 2026** through the DaF placement-test Moodle course.
+- The test takes place **in person in Building 26.1, Room 010**.
+- Bring your **student ID or certificate of enrolment**, your **passport**, and your **OVGU account username and password**.
+- The German-course information event for incoming students is scheduled for **5 October 2026 at 14:00 in Building 40, Room 238**.
+
+## Official links
+
+- [German courses at the OVGU Language Centre](https://www.sprz.ovgu.de/sprz/en/Language+courses/German.html)
+- [Language Centre Moodle and course registration](https://sprachenzentrum.ovgu.de/?lang=en)
+- [German placement-test information](https://www.sprz.ovgu.de/sprz/en/Language+courses/German/Placement+test.html)
+
+---
+
 # Final Reminder
 
 Please regularly check:
