@@ -336,9 +336,12 @@ Under the **Students** tab you can:
 
 ## Official links
 
-- [German courses at the OVGU Language Centre](https://www.sprz.ovgu.de/sprz/en/Language+courses/German.html)
-- [Language Centre Moodle and course registration](https://sprachenzentrum.ovgu.de/?lang=en)
-- [German placement-test information](https://www.sprz.ovgu.de/sprz/en/Language+courses/German/Placement+test.html)
+| Resource | Link |
+|---|---|
+| Official OVGU Language Centre website | [Open official website](https://www.sprz.ovgu.de/en/) |
+| German course enrolment page | [Open enrolment page](https://sprachenzentrum.ovgu.de/?lang=en) |
+| German course information | [View German courses](https://www.sprz.ovgu.de/sprz/en/Language+courses/German.html) |
+| German placement-test information | [View placement-test information](https://www.sprz.ovgu.de/sprz/en/Language+courses/German/Placement+test.html) |
 
 ---
 
