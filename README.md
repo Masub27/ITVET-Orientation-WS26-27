@@ -383,7 +383,7 @@ This timetable contains the courses, dates, times, teaching formats, LSF links, 
 
 ---
 
-# Module 1
+# Module 1 (Mandatory for 1st semester students)
 
  ## Didactics and Methodology of Technical and Vocational Education
 
@@ -417,7 +417,7 @@ This timetable contains the courses, dates, times, teaching formats, LSF links, 
 
 ---
 
-# Module 2
+# Module 2 (Mandatory for 1st semester students)
 
  ## Structures and Theories of Technical and Vocational Education and Training
 
@@ -446,6 +446,8 @@ This timetable contains the courses, dates, times, teaching formats, LSF links, 
 | Time | 10:00 am–4:00 pm (6h) <br> 10:00 am–2:00 pm (4h) |
 | LSF | [Open Course](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=237807&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) |
 | E-Learning | [Open E-Learning](https://elearning.ovgu.de/course/view.php?id=21933) |
+
+> **Location for Module 2 in-person or hybrid sessions:** Room 024, Building 40, OVGU — [Open location](https://share.google/yqCPUlcrzohb9TfiD)
 
 ---
 
@@ -629,17 +631,6 @@ This timetable contains the courses, dates, times, teaching formats, LSF links, 
 | LSF | [Open Course](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=237838&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) |
 | E-Learning | [Open E-Learning](https://elearning.ovgu.de/course/view.php?id=21944) |
 
-### Seminar: ITVET Master Colloquium
-
-| Field | Details |
-|---|---|
-| Lecturer | Lina Lockau |
-| Dates | 14.10.2026–27.01.2027 |
-| Day | Wednesday |
-| Time | 10:30 am–12:00 pm |
-| LSF | [Open Course](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=237822&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) |
-| E-Learning | [Open E-Learning](https://elearning.ovgu.de/course/view.php?id=21946) |
-
 ---
 
 # WPF Module 4.2
@@ -742,6 +733,18 @@ This timetable contains the courses, dates, times, teaching formats, LSF links, 
 
 For questions about the timetable, course registration, or schedule changes, please contact the ITVET programme team.
 
+# Additional Module: ITVET Master Colloquium
+
+| Field | Details |
+|---|---|
+| Lecturer | Lina Lockau |
+| Dates | 14.10.2026–27.01.2027 |
+| Day | Wednesday |
+| Time | 10:30 am–12:00 pm |
+| LSF | [Open Course](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=237822&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) |
+| E-Learning | [Open E-Learning](https://elearning.ovgu.de/course/view.php?id=21946) |
+
+---
 
 # Master's Thesis
 
