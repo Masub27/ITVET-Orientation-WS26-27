@@ -349,6 +349,7 @@ Following these steps will help ensure a smooth start to your studies in the ITV
 | | AI in TVET II – AI and Professional Development | 6 | WiSe/SoSe |
 | **WP Module 4.3: Methodology of Online School Management and Educational Blogger** | Methodology and Trends of Online School Management | 4 | WiSe/SoSe |
 | | A Paradigm Shift in Teaching: From Educator to Educational Blogger | 6 | WiSe/SoSe |
+| **WP Module 4.4: Building AI Skills in Organisations** | Building AI Skills in Organisations | 6 | WiSe/SoSe |
 
 
 # 🎓 ITVET Programme
