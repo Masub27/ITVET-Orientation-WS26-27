@@ -447,7 +447,8 @@ This timetable contains the courses, dates, times, teaching formats, LSF links, 
 | LSF | [Open Course](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=237807&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) |
 | E-Learning | [Open E-Learning](https://elearning.ovgu.de/course/view.php?id=21933) |
 
-> **Location for Module 2 in-person or hybrid sessions:** Room 024, Building 40, OVGU — [Open location](https://share.google/yqCPUlcrzohb9TfiD)
+> **Format:** Hybrid (online or in person)  
+> **Location for in-person attendance:** Room 024, Building 40, OVGU — [View location](https://share.google/yqCPUlcrzohb9TfiD)
 
 ---
 
@@ -733,7 +734,7 @@ This timetable contains the courses, dates, times, teaching formats, LSF links, 
 
 For questions about the timetable, course registration, or schedule changes, please contact the ITVET programme team.
 
-# Additional Module: ITVET Master Colloquium
+# Master Colloquium
 
 | Field | Details |
 |---|---|
