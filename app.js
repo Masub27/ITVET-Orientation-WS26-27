@@ -25,10 +25,3 @@ search.addEventListener('input', () => {
 });
 window.addEventListener('scroll', () => backToTop.classList.toggle('visible', window.scrollY > 700), { passive: true });
 backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
-
-document.querySelectorAll('.quick-card').forEach(link => {
-  link.addEventListener('click', () => {
-    const target = document.querySelector(link.getAttribute('href'));
-    if (target) target.open = true;
-  });
-});
