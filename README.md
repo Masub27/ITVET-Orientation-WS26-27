@@ -502,7 +502,7 @@ This timetable contains the courses, dates, times, teaching formats, LSF links, 
 | Field | Details |
 |---|---|
 | Credits | 6 CP |
-| Lecturer | Dr. Olena Karpova |
+| Lecturer | Eman Aboelgoud |
 | Format | Hybrid |
 | Dates | 03.12.2026 (4h) <br> 10.12.2026 (4h) <br> 17.12.2026 (4h) <br> 07.01.2027 (4h) <br> 14.01.2027 (4h) <br> 21.01.2027 (4h) <br> 28.01.2027 (4h) |
 | Day | Thursday |
